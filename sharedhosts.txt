@@ -1,6 +1,6 @@
-10.0.0.2	plex.local
-10.0.0.3	unifi.local
-10.0.0.7	seedbox.local
-10.0.0.13	dns.local
-10.0.0.9	nas.locsl
-10.0.0.4	flight.local
+10.0.0.2	plex.local plex
+10.0.0.3	unifi.local unifi
+10.0.0.7	seedbox.local seedbox
+10.0.0.13	dns.local dns
+10.0.0.9	nas.locsl nas
+10.0.0.4	flight.local flight
