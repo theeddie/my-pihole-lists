@@ -4,3 +4,4 @@
 10.0.0.13	dns.thekaufmanhouse.local dns
 10.0.0.9	nas.thekaufmanhouse.locsl nas
 10.0.0.4	flight.thekaufmanhouse.local flight
+10.0.0.1	wpad.thekaufmanhouse.local wpad
