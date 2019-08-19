@@ -85,3 +85,4 @@ shooshtime.com
 bit.ly
 facebook.com
 graph.facebook.com
+mailchimp.com
