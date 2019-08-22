@@ -87,3 +87,5 @@ facebook.com
 graph.facebook.com
 mailchimp.com
 click.linksynergy.com
+porhub.com
+redtube.com
