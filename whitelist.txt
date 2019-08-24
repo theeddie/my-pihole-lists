@@ -91,3 +91,5 @@ porhub.com
 redtube.com
 www.youporn.com
 www.redtube.com
+graph.instagram.com
+edge-mqtt.facebook.com
