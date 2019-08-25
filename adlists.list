@@ -72,7 +72,8 @@
 #https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
 #https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 #https://v.firebog.net/hosts/Shalla-mal.txt
-https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
-https://www.squidblacklist.org/downloads/dg-malicious.acl
-https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+#https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
+#https://www.squidblacklist.org/downloads/dg-malicious.acl
+#https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+#https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://dbl.oisd.nl
