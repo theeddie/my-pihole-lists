@@ -98,3 +98,4 @@ remote-data.urbanairship.com
 device-api.urbanairship.com
 c.go-mpulse.net
 combine.urbanairship.com
+geo.yahoo.com
