@@ -96,3 +96,5 @@ edge-mqtt.facebook.com
 cdn.quantummetric.com
 remote-data.urbanairship.com
 device-api.urbanairship.com
+c.go-mpulse.net
+combine.urbanairship.com
