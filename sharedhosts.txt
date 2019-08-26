@@ -1,7 +1,7 @@
 10.0.0.2	plex.thekaufmanhouse.local plex
 10.0.0.3	unifi.thekaufmanhouse.local unifi
 10.0.0.7	seedbox.thekaufmanhouse.local seedbox
-10.0.0.13	dns.thekaufmanhouse.local dns
-10.0.0.9	nas.thekaufmanhouse.locsl nas
+10.0.0.5	dns.thekaufmanhouse.local dns
+10.0.0.9	nas.thekaufmanhouse.local nas
 10.0.0.4	flight.thekaufmanhouse.local flight
 127.0.0.1	wpad.thekaufmanhouse.local wpad
