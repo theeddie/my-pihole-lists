@@ -76,6 +76,7 @@
 #https://www.squidblacklist.org/downloads/dg-malicious.acl
 #https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 #https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-https://dbl.oisd.nl
+#https://dbl.oisd.nl
 #https://github.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt
-https://github.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt
+#https://github.com/ookangzheng/dbl-oisd-nl/raw/master/dbl.txt
+http://eddie.in/dns.list
