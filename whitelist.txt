@@ -109,3 +109,5 @@ comet.yahoo.com
 fc.yahoo.com
 s.yimg.com
 smetrics.aem.playstation.com
+www.semrush.com
+semrush.com
