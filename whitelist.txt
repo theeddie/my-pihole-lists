@@ -111,3 +111,5 @@ s.yimg.com
 smetrics.aem.playstation.com
 www.semrush.com
 semrush.com
+bovada.lv
+www.bovada.lv
