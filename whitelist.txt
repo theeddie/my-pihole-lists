@@ -120,3 +120,4 @@ services.bovada.lv
 games.bovada.lv
 services.bovada.la
 www.reallivedealercasino.com
+web.vortex.data.microsoft.com
