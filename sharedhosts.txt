@@ -6,3 +6,4 @@
 10.0.0.4	flight.thekaufmanhouse.local flight
 127.0.0.1	wpad.thekaufmanhouse.local wpad
 10.0.0.12	webserver.thekaufmanhouse.local webserver
+10.0.0.13 esxi.thekaufmanhouse.local esxi
